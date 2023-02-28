@@ -4,4 +4,5 @@ Currently implemented:
 1) procedural generation of the dungeon (there are 3 different versions of it)
 2) a card has been created for TD;
 3) began to work with the script and the performance of TD.
-An error occurred and the repository was deleted.
+
+  An error occurred and the repository was deleted.
